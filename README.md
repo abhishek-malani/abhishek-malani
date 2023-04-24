@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+<a href="url"><img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-horiz.png" height="25" width="90"></a>
 
 
 
