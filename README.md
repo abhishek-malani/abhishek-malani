@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true&theme=transparent)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true&theme=dark&count_private=true"
