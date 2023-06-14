@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true&theme=transparent)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-malani&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-malani&layout=compact&theme=cobalt" />
+</p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true&theme=dark&count_private=true"
