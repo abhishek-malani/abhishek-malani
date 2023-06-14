@@ -22,21 +22,15 @@ Here are some ideas to get you started:
 <a href="url"><img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-horiz.png" height="25" width="90"></a>
 <a href="url"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Jmeter.png" height="28" width="90" ></a>
 
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-malani&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-malani&layout=compact&theme=cobalt" />
-</p>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true&theme=dark&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&count_private=true&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=abhishek-malani&&count_private=trueshow_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-malani&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-malani&s&count_private=truehow_icons=true" />
 </picture>
 
