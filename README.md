@@ -32,6 +32,9 @@ I’m passionate about building scalable machine learning solutions that help dr
 
 ---
 
+<!--STATS-->
+![](./github-stats.svg)
+
 ### 📊 GitHub Stats
 <picture>
   <source 
