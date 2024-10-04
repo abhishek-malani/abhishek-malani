@@ -32,8 +32,18 @@ I’m passionate about building scalable machine learning solutions that help dr
 
 ---
 
-<!--STATS-->
-![](./github-stats.svg)
+### 📊 GitHub Stats
+<picture>
+  <source 
+    srcset="https://github-readme-stats-dusky-one-44.vercel.app/api?username=abhishek-malani&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats-dusky-one-44.vercel.app/api?username=abhishek-malani&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+  <img src="https://github-readme-stats-dusky-one-44.vercel.app/api?username=abhishek-malani&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</picture>
+
 
 ---
 
