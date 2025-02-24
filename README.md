@@ -48,8 +48,7 @@ I’m passionate about building scalable machine learning solutions that help dr
   />
   <img src="https://github-readme-stats-dusky-one-44.vercel.app/api?username=abhishek-malani&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </picture>
-
-
----
+## GitHub Streak Stats 🔥
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhishek-malani&theme=dark-pink&hide_border=true)
 
 Feel free to reach out for collaboration or just to connect!
