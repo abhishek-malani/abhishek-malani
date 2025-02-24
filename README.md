@@ -67,7 +67,14 @@ I’m passionate about building scalable machine learning solutions that help dr
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-%23008000.svg?style=for-the-badge)
 
+### 🌟 Additional Tools & Technologies
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%234B8BBE.svg?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-%2300C7B7.svg?style=for-the-badge)
 ---
 
 ### 📊 GitHub Stats
